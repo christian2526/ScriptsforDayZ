@@ -1,0 +1,6 @@
+//===================piXel 05-02-2013============
+#include "addin\fx\descrExt.h"
+//end
+
+
+add this in after class RscText
