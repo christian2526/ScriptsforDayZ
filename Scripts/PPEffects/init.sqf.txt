@@ -1,0 +1,4 @@
+//effects tropic
+if (!isDedicated) then {
+    [] execVM "fixes\effects.sqf";
+};
