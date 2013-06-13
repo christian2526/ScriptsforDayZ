@@ -1,3 +1,0 @@
-Adfter processinLine 1.0 add:
-
-building_spawnLoot = compile preprocessFileLineNumbers "fixes\building_spawnLoot.sqf";

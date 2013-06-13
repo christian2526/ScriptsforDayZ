@@ -1,3 +1,0 @@
-
-//BTC
-execVM "BTK\Cargo Drop\Start.sqf";
